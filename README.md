@@ -4,7 +4,7 @@
 
 ## About Me
 
-I discovered the idea of code when I was 22 after buying a second-hand laptop to watch movies. I bought that after working as a waiter in a cafe. I started coding at 23, after finally understanding what programming actually is. Honestly, before that I had no idea about any of this.
+I discovered the idea of code when I was 23 after buying a second-hand laptop to watch movies. I bought that after working as a waiter in a cafe. I started coding at 24, after finally understanding what programming actually is. Honestly, before that I had no idea about any of this.
 
 I started tinkering, learning, and building, and found out this is a journey of constant suffering. But while doing that, I got the instinct of a builder more than just a coder or programmer. Now I work as a builder — or you can say as a founder. Actually, I see myself as a combination of both.
 
