@@ -12,6 +12,7 @@ I started tinkering, learning, and building, and found out this is a journey of 
 
 - ⇧ **[Vaish](https://github.com/vrushabhsgit/Vaish)** - A personal AI companion built for genuine connection, conversation, and companionship.
 - ⇧ **[PaperMind](https://github.com/vrushabhsgit/PaperMind)** - Local-first AI that answers questions about your receipts, warranties and policies with page citations
+- ⇧ **[Aegis](https://github.com/vrushabhsgit/Aegis)** - A secure enterprise RAG assistant with strict access controls and deterministic quote verification
 - ⇧ **[Scribble](https://github.com/vrushabhsgit/Scribble)** - A real-time collaborative canvas for visual thinking
 - ⇧ **[Alzheimer](https://github.com/vrushabhsgit/Alzheimer)** - Your second brain, organize content from anywhere, all in one place
 - ⇧ **[Paisa-Pe](https://github.com/vrushabhsgit/Paisa-Pe)** - An application that lets users send money to each other using an initial dummy balance
