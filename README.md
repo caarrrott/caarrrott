@@ -12,6 +12,7 @@ As I started tinkering, learning, and building, I realized this path is a journe
 
 - ⇧ **[Vaish](https://github.com/vrushabhsgit/Vaish)** - A personal AI companion built for genuine connection, conversation, and companionship.
 - ⇧ **[PaperMind](https://github.com/vrushabhsgit/PaperMind)** - Local-first AI that answers questions about your receipts, warranties and policies with page citations
+- ⇧ **[Sentinel](https://github.com/vrushabhsgit/Sentinel)** - AI support desk where the model handles the conversation and the server decides what each role is allowed to do.
 - ⇧ **[Aegis](https://github.com/vrushabhsgit/Aegis)** - A secure enterprise RAG assistant with strict access controls and deterministic quote verification
 - ⇧ **[Scribble](https://github.com/vrushabhsgit/Scribble)** - A real-time collaborative canvas for visual thinking
 - ⇧ **[Alzheimer](https://github.com/vrushabhsgit/Alzheimer)** - Your second brain, organize content from anywhere, all in one place
